@@ -1,18 +1,15 @@
 # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
-<a href="https://twitter.com/amandewatnitrr">
-  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+<a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/paulo4676">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/akd_beast_slayer/">
+<a href="https://www.instagram.com/p.hsl/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:amandewatnitrr@gmail.com">
+<a href="mailto:paulo.henrqueslima.46@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
