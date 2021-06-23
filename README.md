@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/amandewatnitrr) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <a href="https://twitter.com/amandewatnitrr">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -23,12 +23,10 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
+- 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
+- 🔭 <samp>Diploma in Computer Technician from SENAC
+- 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
+- 💬 <samp>Ask me about C#/PostgresSql/Mysql/PHP-Dev
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 </div>
@@ -37,11 +35,8 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- 👨🏾‍💻 <samp>Embedded PHP - Magazord LTA<br>
+- 👨🏾‍💻 <samp>Embedded PHP - Digiliza Software LTA<br>
 </div>
 
 ##
