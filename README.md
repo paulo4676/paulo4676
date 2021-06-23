@@ -65,9 +65,13 @@
   
 <p align="center">
   <a href="https://github.com/paulo4676"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=paulo4676&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <br></br>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=paulo4676&count_private=true&show_icons=true&theme=great-gatsby&&include_all_commits=true"/>
+    <br></br>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=paulo4676&theme=dark&hide_border=true&fire=DD2727" />
-    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo4676&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    <br></br>
+    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo4676&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=great-gatsby"/>
+  <br></br>
     </span></a>
 </p>
   
