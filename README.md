@@ -19,7 +19,7 @@
 <br><br>
 
 <div>
-<img align="right" src="http://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif" width="40%"/>
+<img align="right" src="http://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif" width="55%"/>
   <br>
 
 - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
