@@ -95,4 +95,4 @@
   <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
 </p>
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/paulo4676/paulo4676/blob/main/imgs/original.gif)
