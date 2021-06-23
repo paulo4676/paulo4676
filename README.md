@@ -35,8 +35,8 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👨🏾‍💻 <samp>Embedded PHP - Magazord LTA<br>
-- 👨🏾‍💻 <samp>Embedded PHP - Digiliza Software LTA<br>
+  - 💼 <samp>PHP - Magazord LTA<br>
+  - 💼 <samp> PHP - Digiliza Software LTA<br>
 </div>
 
 ##
