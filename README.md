@@ -17,7 +17,6 @@
 </a>
 
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 <div>
 <img align="right" src="http://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif" width="40%"/>
