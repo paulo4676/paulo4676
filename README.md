@@ -9,9 +9,6 @@
 <a href="https://www.instagram.com/p.hsl/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:paulo.henrqueslima.46@gmail.com">
-  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -69,8 +66,8 @@
 <p align="center">
   <a href="https://github.com/paulo4676"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=paulo4676&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo4676&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo4676&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com" />
+    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo4676&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
   
