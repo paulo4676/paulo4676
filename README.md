@@ -1,7 +1,9 @@
 # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+
 <br><br>
+
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="akd's Linkdein" width="80px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
