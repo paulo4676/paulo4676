@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/paulo4676">
-  <img align="left" alt="akd's Github" heigth="25px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="akd's Github" heigth="15px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://api.whatsapp.com/send/?phone=5511948142034&text&app_absent=0">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
