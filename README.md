@@ -3,10 +3,15 @@
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 <a href="https://github.com/paulo4676">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/p.hsl/">
+<a href="https://api.whatsapp.com/send/?phone=5511948142034&text&app_absent=0">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -30,7 +35,7 @@
 <h3><b><samp>Experiences:</samp></b></h3>
   - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
   - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
-   - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
+  - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
 </div>
 
 ##
