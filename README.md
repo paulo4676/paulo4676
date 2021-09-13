@@ -28,9 +28,11 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
+  
   - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
   - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
   - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
+  
 </div>
 
 ##
