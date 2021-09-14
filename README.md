@@ -1,5 +1,8 @@
 # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 <br><br>
 
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
