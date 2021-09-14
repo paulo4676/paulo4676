@@ -1,5 +1,6 @@
 # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
+
 ```diff
 - text in red
 + text in green
@@ -7,6 +8,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
 
 <br><br>
 
