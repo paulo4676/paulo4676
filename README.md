@@ -1,6 +1,6 @@
 <div>
   # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) 
-  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="5px">
+  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 </div>
 
 <br><br>
@@ -15,8 +15,9 @@
 
 <br><br>
 
-<div>
 <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif" width="55%"/>
+
+<div>
   <br>
 - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
 - 🔭 <samp>Diploma in Computer Technician from SENAC
