@@ -15,7 +15,6 @@
 <div>
 <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif" width="55%"/>
   <br>
-
 - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
 - 🔭 <samp>Diploma in Computer Technician from SENAC
 - 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
@@ -25,10 +24,34 @@
 </div>
 
 ##
-
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-  
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Languages & Technologies: `JavaScript`, `Node`, `React`\
+Projects: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
   - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
   - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
   - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
@@ -42,7 +65,7 @@
   <h3><b><samp>Front End</samp></b></h3>
   
   
-  ![Vue] <code><img height="32" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" alt="c"/></code>
+  ##[Vue] <code><img height="32" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" alt="c"/></code>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
