@@ -98,13 +98,13 @@
   
   
   <h3><b><samp>Desing</samp></b></h3>
-  ![Adobe Xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Adobe Xd] (https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
   
  <hr>   
 
  
  <h3><b><samp>Education</samp></b></h3> 
-  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+  ![Udemy] (https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
   
  <hr>   
 
