@@ -1,5 +1,5 @@
 <div>
-  # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) 
+  # Hey Everyone! I'm [Paulo Henrique de Souza Lima]
   <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
   <br>
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
@@ -38,7 +38,7 @@
 <h3><b><samp>Skills and Languages</samp></b></h3>
   
  
-  <h3><b><samp>Front End</samp></b></h3>
+  <h3><b><samp>Front-End</samp></b></h3>
     
   <code>![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)</code>
   <code>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</code>
@@ -49,7 +49,7 @@
    <hr>  
   
   
-  <h3><b><samp>Back End</samp></b></h3>
+  <h3><b><samp>Back-End</samp></b></h3>
   
   <code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
   <code>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</code>
@@ -58,8 +58,7 @@
   <code>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)</code>
   
    <hr>  
-  
-  
+    
   <h3><b><samp>Data Base</samp></b></h3>
   
   <code>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</code>
