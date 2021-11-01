@@ -1,4 +1,7 @@
-# Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<div>
+  # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) 
+  <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="5px">
+</div>
 
 <br><br>
 
