@@ -23,41 +23,6 @@
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 </div>
 
-<br/>
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Languages & Technologies: `JavaScript`, `Node`, `React`\
-Projects: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [App](https://nubank.com.br/)
-<br/>
-<br/>
-
-  - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
-  - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
-  - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
-  
-</div>
-
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
   
@@ -141,11 +106,44 @@ Featured Projects: [App](https://nubank.com.br/)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
   
-<hr> 
+<hr>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">  
+<hr>
   
   
+  <div>
+<h3><b><samp>Experiences:</samp></b></h3>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Languages & Technologies: `JavaScript`, `Node`, `React`\
+Projects: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Featured Projects: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+  - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
+  - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
+  - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
   
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
   
   
 <hr> 
