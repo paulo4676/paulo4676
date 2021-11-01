@@ -98,13 +98,16 @@
   
   
   <h3><b><samp>Desing</samp></b></h3>
+  
   ![Vue](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
   
  <hr>   
 
  
  <h3><b><samp>Education</samp></b></h3> 
+  
    ![Vue](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+  
  <hr>   
 
 <h3><b><samp>Tools and Platform</samp></b></h3>
