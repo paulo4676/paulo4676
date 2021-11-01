@@ -23,7 +23,7 @@
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 </div>
 
-##
+<br/>
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 
