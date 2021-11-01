@@ -17,6 +17,8 @@
 
 <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif" width="55%"/>
 
+<br><br>
+
 <div>
   <br>
 - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
