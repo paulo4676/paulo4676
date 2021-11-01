@@ -1,10 +1,8 @@
 <div>
   # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) 
   <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-</div>
-
-<br><br>
-
+  
+  
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -12,6 +10,9 @@
 <a href="https://api.whatsapp.com/send/?phone=5511948142034&text&app_absent=0">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+  
+  
+</div>
 
 <br><br>
 
