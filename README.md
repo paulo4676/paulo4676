@@ -1,8 +1,7 @@
 <div>
   # Hey Everyone! I'm [Paulo Henrique de Souza Lima](https://github.com/paulo4676) 
   <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-  
-  
+  <br>
 <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -10,24 +9,29 @@
 <a href="https://api.whatsapp.com/send/?phone=5511948142034&text&app_absent=0">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-  
-  
 </div>
 
-<br><br>
-
-<img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif" width="55%"/>
-
-<br><br>
+<br>
 
 <div>
-  <br>
-- 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
+  
+  <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px" width="50%"/>
+  
+  <div align="left" width="50%">
+     <hr>
+    - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
+   <br>
 - 🔭 <samp>Diploma in Computer Technician from SENAC
+   <br>
 - 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
+   <br>
 - 💬 <samp>Ask me about C#/PostgresSql/Mysql/PHP-Dev
+   <br>
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+   <br>
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+       <hr width="50%">
+  </div>
 </div>
 
 ##
@@ -35,165 +39,107 @@
   
  
   <h3><b><samp>Front End</samp></b></h3>
-  
-  
-  ##[Vue] <code><img height="32" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" alt="c"/></code>
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+    
+  <code>![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)</code>
+  <code>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</code>
+  <code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code>
+  <code>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</code>
+  <code>![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</code>
   
    <hr>  
   
   
   <h3><b><samp>Back End</samp></b></h3>
   
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+  <code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
+  <code>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</code>
+  <code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</code>
+  <code>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
+  <code>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)</code>
   
    <hr>  
   
   
   <h3><b><samp>Data Base</samp></b></h3>
   
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  <code>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</code>
+  <code>![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</code>
   
    <hr>  
   
   
   <h3><b><samp>CSV</samp></b></h3>
   
-  ![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![gitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+  <code>![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code>
+  <code>![gitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</code>
+  <code>![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)</code>
   
    <hr>  
   
  
   <h3><b><samp>Others</samp></b></h3>
   
-  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![XAMP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  <code>![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)</code>
+  <code>![XAMP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)</code>
+  <code>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</code>
+  <code>![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)</code>
   
    <hr>  
   
   
    <h3><b><samp>SO</samp></b></h3>
   
-  ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![ubuntu]( https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali LInux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  <code>![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</code>
+  <code>![ubuntu]( https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)</code>
+  <code>![Kali LInux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)</code>
   
    <hr>  
   
   
   <h3><b><samp>Desing</samp></b></h3>
   
-  ![ABOBExD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  <code>![ABOBExD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</code>
   
  <hr>   
 
  
  <h3><b><samp>Education</samp></b></h3> 
   
-   ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+   <code>![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)</code>
   
  <hr>   
 
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+<code>![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)</code>
+<code>![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)</code>
+<code>![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)</code>
   
 <hr>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">  
-<hr>
   
   
   <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Tidas" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfmxZLAdpJ7xfoiCO07SMAzLbTRwHBqY-Lkrz8_Fu2J_ot33qlwafucaB1jxaIFaTyGQ&usqp=CAU"/>](https://www.tidas.com.br/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+**Fullstack Developer (Pleno)** \
+[**Tidas Ltda**](https://www.tidas.com.br/) • Contract \
+Languages & Technologies: `Python`, `Django`, `PHP`, `JavaScript`, `PostGress`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/117157879_723271164886027_6832852747032950145_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zyp-1Ru5Gd0AX8VTUQ0&_nc_ht=scontent-gru2-2.xx&oh=80c3d0fb8b767a2ac016cf703fd0bd3f&oe=61509D88"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="magazord" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3SIE8cUPPTQYkfudSVMK_gzk2LLxh6cZYPDPhfxh86shso-hu5idsPEyQIULRNHhzhk&usqp=CAU"/>](https://digiliza.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Languages & Technologies: `JavaScript`, `Node`, `React`\
-Projects: [Ignite](), [Bootcamp]()
+**FullStack Developer (Pleno)** \
+[**Digiliza**](https://digiliza.com.br/) • Contract \
+Languages & Technologies: `JavaScript`, `Vue.Js`, `Laravel`,`PHP`,`PostGress`,`FirebirdDB`, \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="digiliza" src="https://mir-s3-cdn-cf.behance.net/projects/404/8215a2112460319.Y3JvcCwxNDcyLDExNTIsNTcyLDA.png"/>](https://www.google.com/aclk?sa=l&ai=DChcSEwjhns2JuvfzAhW4bG8EHfxmCj4YABADGgJqZg&ae=2&sig=AOD64_1xFZsKyB7wYsMQJ5yBBSCT_-vU8Q&q&adurl&ved=2ahUKEwjumsKJuvfzAhVQqJUCHalUByYQ0Qx6BAgDEAE)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Languages & Technologies: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Featured Projects: [App](https://nubank.com.br/)
+**Back-end Developer (Pleno)** \
+[**Mgazord LTDA**](https://www.google.com/aclk?sa=l&ai=DChcSEwjhns2JuvfzAhW4bG8EHfxmCj4YABADGgJqZg&ae=2&sig=AOD64_1xFZsKyB7wYsMQJ5yBBSCT_-vU8Q&q&adurl&ved=2ahUKEwjumsKJuvfzAhVQqJUCHalUByYQ0Qx6BAgDEAE) • Contract \
+Languages & Technologies: `PHP`, `PostGress`, `JavaScript` \
 <br/>
-<br/>
-
-  - 💼 <samp>PHP,PostGres SQL - Magazord LTA<br>
-  - 💼 <samp> Laravel,PostGres SQL & Vue.js  - Digiliza Software LTA<br>
-  - 💼 <samp> PHP,PostGres SQL & API'S  - Tidas Techonologia LTA<br>
-  
 </div>
-  
-  
-<hr> 
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<br/>
- 
-<hr>
-  
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/paulo4676"><span>
-    <br></br>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=paulo4676&count_private=true&show_icons=true&theme=great-gatsby&&include_all_commits=true"/>
-    <br></br>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=paulo4676&theme=dark&hide_border=false&fire=DD2727" />
-    <br></br>
-    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo4676&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=great-gatsby"/>
-  <br></br>
-    </span></a>
-</p>
-  
-<br>
-  
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=paulo4676&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-
-### 📈 GitHub Activity:
-  <a href="https://github.com/paulo4676/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=paulo4676&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<br>  
-
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
-</p>
-  
-![](https://github.com/paulo4676/paulo4676/blob/main/imgs/bottom_header.svg)
