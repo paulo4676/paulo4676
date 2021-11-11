@@ -10,6 +10,13 @@
   <a href="https://api.whatsapp.com/send/?phone=5511948142034&text&app_absent=0">
    <img align="left" alt="akd's Linkdein" width="135px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  
+  <code>![seguidores](https://img.shields.io/github/followers/paulo4676.svg?style=social&label=Follow&maxAge=2592000
+  )</code>
+  
+  
+  
+  
 </div>
 
 <br>
@@ -102,6 +109,11 @@
   <h3><b><samp>Desing</samp></b></h3>
   
   <code>![ABOBExD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</code>
+  <code>![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)</code>
+  <code>![Ill=ustrator](https://aleen42.github.io/badges/src/illustrator.svg)</code>
+    
+    
+    
   
  <hr>   
 
