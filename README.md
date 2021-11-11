@@ -54,9 +54,12 @@
   
   <code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
   <code>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)</code>
+  <code>![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</code>
   <code>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</code>
   <code>![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
   <code>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)</code>
+    
+  
   
    <hr>  
     
