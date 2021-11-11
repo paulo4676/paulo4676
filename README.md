@@ -1,6 +1,6 @@
 <div>
   
-  <h3><b><samp> # Hey Everyone! I'm [Paulo Henrique de Souza Lima]
+  <h3><b><samp> # Hey Everyone! I'm {Paulo Henrique de Souza Lima}
     <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></samp></b></h3>
   <br>
   <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
