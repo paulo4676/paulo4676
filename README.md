@@ -23,15 +23,15 @@
      <hr>
     - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
    <br>
-- 🔭 <samp>Diploma in Computer Technician from SENAC
+    - 🔭 <samp>Diploma in Computer Technician from SENAC
    <br>
-- 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
+    - 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
    <br>
-- 💬 <samp>Ask me about C#/PostgresSql/Mysql/PHP-Dev
+    - 💬 <samp>Ask me about C#/PostgresSql/Mysql/PHP-Dev
    <br>
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+    - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
    <br>
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+    - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
        <hr width="50%">
   </div>
 </div>
