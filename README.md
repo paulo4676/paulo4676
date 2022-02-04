@@ -17,22 +17,22 @@
 
 <div>
   
-  <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px" width="50%"/>
+  <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px" width="40%"/>
   
-  <div align="left" width="50%">
-     <hr>
-    - 👷 <samp>Currently pursuing B.Tech in computer science from IFC 
-   <br>
-    - 🔭 <samp>Diploma in Computer Technician from SENAC
-   <br>
-    - 💼 <samp>I’m looking for **Internship(PPO)** Opportunities/roles.
-   <br>
-    - 💬 <samp>Ask me about C#/PostgresSql/Mysql/PHP-Dev
-   <br>
-    - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-   <br>
-    - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-       <hr width="50%">
+  <div align="left" width="70%">
+    <br>
+   👷 Currently pursuing B.Tech in computer science from IFC
+    <br>
+   🔭 Diploma in Computer Technician from SENAC
+     <br>
+   💼 I’m looking for **Internship(PPO)** Opportunities/roles.
+     <br>
+   💬 Ask me about C#/PostgresSql/Mysql/PHP-Dev
+     <br>
+   🤔 I’m looking for help with how to excel in Competitive Programming
+     <br>
+   ✨ Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+     <br>
   </div>
 </div>
 
