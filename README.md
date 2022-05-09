@@ -140,7 +140,7 @@ Languages & Technologies: `Python`, `Django`, `PHP`, `JavaScript`, `PostGress`\
 Languages & Technologies: `JavaScript`, `Vue.Js`, `Laravel`,`PHP`,`PostGress`,`FirebirdDB`, \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="digiliza" src="https://mir-s3-cdn-cf.behance.net/projects/404/8215a2112460319.Y3JvcCwxNDcyLDExNTIsNTcyLDA.png"/>](https://www.google.com/aclk?sa=l&ai=DChcSEwjhns2JuvfzAhW4bG8EHfxmCj4YABADGgJqZg&ae=2&sig=AOD64_1xFZsKyB7wYsMQJ5yBBSCT_-vU8Q&q&adurl&ved=2ahUKEwjumsKJuvfzAhVQqJUCHalUByYQ0Qx6BAgDEAE)
+[<img align="left" height="94px" width="94px" alt="digiliza" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG3M1dB5TNwNw/company-logo_200_200/0/1639092973188?e=2147483647&v=beta&t=2ASB52v2LsBLb0vMm78iTqFMiG4lhtzLm5umvh1wfys"/>](https://www.google.com/aclk?sa=l&ai=DChcSEwjhns2JuvfzAhW4bG8EHfxmCj4YABADGgJqZg&ae=2&sig=AOD64_1xFZsKyB7wYsMQJ5yBBSCT_-vU8Q&q&adurl&ved=2ahUKEwjumsKJuvfzAhVQqJUCHalUByYQ0Qx6BAgDEAE)
 
 **Back-end Developer (Pleno)** \
 [**Mgazord LTDA**](https://www.google.com/aclk?sa=l&ai=DChcSEwjhns2JuvfzAhW4bG8EHfxmCj4YABADGgJqZg&ae=2&sig=AOD64_1xFZsKyB7wYsMQJ5yBBSCT_-vU8Q&q&adurl&ved=2ahUKEwjumsKJuvfzAhVQqJUCHalUByYQ0Qx6BAgDEAE) • Contract \
