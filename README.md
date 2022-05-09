@@ -12,9 +12,10 @@
   </a>
   
 </div>
+
 <br>
 
-<div>
+
   
   <div width="50%"> 
       <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px"  width="35%"/>
@@ -35,7 +36,6 @@
    ✨ Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
      <br>
   </div>
-</div>
 
 <hr>  
 
