@@ -21,6 +21,7 @@
   </div>
   
   <div align="left" width="70%">
+    <br>
    👷 Currently pursuing B.Tech in computer science from IFC
     <br>
    🔭 Diploma in Computer Technician from SENAC
