@@ -21,10 +21,6 @@
   </div>
   
   <div align="left" width="70%">
-    
-   
-    
-    <br>
    👷 Currently pursuing B.Tech in computer science from IFC
     <br>
    🔭 Diploma in Computer Technician from SENAC
@@ -44,7 +40,6 @@
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
   
- 
   <h3><b><samp>Front-End</samp></b></h3>
     
   <code>![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)</code>
