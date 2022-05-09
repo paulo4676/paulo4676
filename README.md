@@ -14,8 +14,6 @@
 </div>
 
 <br>
-
-
   
   <div width="50%"> 
       <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px"  width="35%"/>
@@ -37,6 +35,7 @@
      <br>
   </div>
 
+<br>
 <hr>  
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
