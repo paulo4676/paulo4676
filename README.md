@@ -16,9 +16,13 @@
 
 <div>
   
+  <div> 
+      <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px" width="40%"/>
+  </div>
+  
   <div align="left" width="70%">
     
-     <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px" width="40%"/>
+   
     
     <br>
    👷 Currently pursuing B.Tech in computer science from IFC
