@@ -1,5 +1,13 @@
 <div>
   
+  <div width="50%"> 
+      <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/skull-hacking-time-4k-rh.png"  heigth="150px"  width="30%" border-radius="50%"/>
+  </div>
+  
+  <br>
+  
+  
+  
   <h3><b><samp> # hello world!  I i'm {Paulo Henrique de Souza Lima}
     <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></samp></b></h3>
   <br>
@@ -14,11 +22,6 @@
 </div>
 
 <br>
-  
-  <div width="50%"> 
-      <img align="right" src="https://github.com/paulo4676/paulo4676/blob/main/imgs/hacker2.gif"  heigth="150px"  width="40%" border-radius="50%"/>
-  </div>
-  
   <div align="left" width="50%">
     <br>
    👷 Currently pursuing B.Tech in computer science from IFC
