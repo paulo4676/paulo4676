@@ -9,7 +9,6 @@
   
   
   <h3><b><samp> # hello world!  I i'm {Paulo Henrique de Souza Lima}
-    <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></samp></b></h3>
   <br>
   <a href="https://www.linkedin.com/in/paulo-henrique-de-souza-lima-3b230b196/">
     <img align="left" alt="akd's Linkdein" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
