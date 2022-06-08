@@ -33,8 +33,6 @@
      <br>
    🤔 I’m looking for help with how to excel in Competitive Programming
      <br>
-   ✨ Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-     <br>
   </div>
 
 <br>
